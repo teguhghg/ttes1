@@ -1,0 +1,20 @@
+item {
+    name: "tandan_kosong",
+    id: 1,
+    display_name: "tandan_kosong"
+}
+item {
+    name: "tandan_lewatmatang",
+    id: 2,
+    display_name: "tandan_lewatmatang"
+}
+item {
+    name: "tandan_matang",
+    id: 3,
+    display_name: "tandan_matang"
+}
+item {
+    name: "tandan_mentah",
+    id: 4,
+    display_name: "tandan_mentah"
+}
